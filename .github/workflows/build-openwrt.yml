@@ -23,7 +23,7 @@ on:
 
 env:
   REPO_URL: https://github.com/coolsnowwolf/lede
-  REPO_BRANCH: dev-19.07
+  REPO_BRANCH: OpenWrt 19.07
   CONFIG_FILE: .config
   DIY_SH: diy.sh
   SSH_ACTIONS: true
